@@ -12,6 +12,7 @@
 mount point / diperlukan karena merupakan titik utama/root dari filesystem Linux dan menjadi lokasi utama sistem operasi Linux diinstal serta menjalankan berbagai direktori system.
 
 3. Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs !
+   
 a. Ext4 Ext4 (Fourth Extended Filesystem) merupakan filesystem yang banyak digunakan pada sistem operasi Linux. Ext4 merupakan pengembangan dari Ext3 dan menyediakan kemampuan pengelolaan file serta penyimpanan yang lebih baik. Pada praktikum, Ext4 digunakan untuk partisi Linux seperti /home dan /. Modul secara khusus menggunakan Ext4 Journaling File System untuk partisi tersebut
 
 b. Ext3 Ext3 (Third Extended Filesystem) merupakan filesystem Linux yang merupakan pengembangan dari Ext2. Salah satu karakteristik penting Ext3 adalah penggunaan journaling, yaitu pencatatan perubahan filesystem untuk membantu menjaga konsistensi filesystem ketika terjadi gangguan seperti mati listrik atau sistem berhenti secara tiba-tiba
